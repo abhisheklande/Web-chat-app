@@ -1,1 +1,1 @@
-# Web-chat-app
+# Web chat app
